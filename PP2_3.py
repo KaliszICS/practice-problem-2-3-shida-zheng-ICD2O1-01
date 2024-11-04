@@ -14,7 +14,12 @@ else:
 
 def q2(): 
   #Write Assignment code here
+num = int(input("Enter an integer: "))
 
+if num > 0:
+    print(f"{num} is positive")
+elif num < 0:
+    print(f"{num} is negative")
 
 
 #Do not alter the following code
