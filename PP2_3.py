@@ -2,7 +2,7 @@
 
 def q1(): 
   #Write Assignment code here
-word = input("Enter a word: ")
+word = input("In: ")
 if word.endswith("ife"):
     print("-ives")
 elif word.endswith("ey"):
@@ -14,7 +14,7 @@ else:
 
 def q2(): 
   #Write Assignment code here
-num = int(input("Enter an integer: "))
+num = int(input("In: "))
 
 if num > 0:
     print(f"{num} is positive")
