@@ -1,5 +1,4 @@
 
-
 def q1(): 
   #Write Assignment code here
 word = input("In: ")
